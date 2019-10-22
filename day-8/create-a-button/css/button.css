@@ -1,0 +1,10 @@
+.myButton{
+    /*
+    A width of 96px.
+    A height of 48px.
+    The font-size attribute is 24px.
+    */
+    width: 96px;
+    height: 48px;
+    font-size: 24px;
+}
